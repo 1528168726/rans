@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alg/Desktop/rans/lib/encoder_and_decoder.cpp
+encoder_and_decoder.h
+C:/Users/alg/Desktop/rans/lib/encoder_and_decoder.h
+
+C:/Users/alg/Desktop/rans/lib/encoder_and_decoder.h
+cstdio
+-
+cstdint
+-
+utility
+-
+string
+-
+cstring
+-
+iostream
+-
+
